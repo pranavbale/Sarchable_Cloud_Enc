@@ -1,0 +1,25 @@
+g:
+mkdir django-setup
+cd django-setup
+pip install virtualenv
+virtualenv searchable_enc
+cd searchable_enc
+cd Scripts
+activate
+pip install django
+///django-admin startproject searchable_cloud_enc
+cd searchable_cloud_enc
+pthon manage.py runserver
+pip install pymysql
+pip install mysqlclient
+pip install cryptography
+pip install mysql-connector-python
+pip install tika
+pip install nltk
+pip install tinyec
+pip install pycryptodome
+
+
+
+cd searchable_cloud_enc
+pthon manage.py runserver
