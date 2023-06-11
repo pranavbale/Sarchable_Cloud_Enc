@@ -5,14 +5,14 @@ Cloud storage has become a popular solution for storing and sharing large amount
 Goal of this project is to implement an efficient searchable encryption scheme for cloud storage. The proposed solution should provide strong confidentiality and privacy guarantees for sensitive data stored in the cloud, while allowing for efficient search queries over the encrypted data. The solution should also have low overhead in terms of storage and computation, making it suitable for use in real-world cloud storage applications. The project aims to address the security concerns associated with cloud storage systems, and provide a practical solution for enhancing their security.
 
 
-System Requirement 
+System Requirement : 
 Windows 10/ 11, Visual Studio Code (VS CODE), PYTHON LANGUAGE (3.10), MySQL Database, Clever Cloud, 
 
 
-Technological Involved
+Technological Involved : 
 HTML, CSS, Bootsrtap, Javascript, python, Django, MySQL
 
-Algorithm Use
+Algorithm Use : 
 ECC (Elliptical curve cryptography), RAKE (Rapid Automatic Keywords Extraction Algorithm), CAESAR   
 
 System Architecture 
